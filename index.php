@@ -22,7 +22,7 @@
         <h1>UNDER CONSTRUCTION</h1>
         <h3>PROGRESS</h3>
         <div class="progress-wrapper">
-            <div class="progress"><span>0%</span></div>
+            <div class="progress"><span>80%</span></div>
         </div>
         <div class="social-icons">
             <a href="#your-fb-page"><i class="fab fa-facebook"></i></a>

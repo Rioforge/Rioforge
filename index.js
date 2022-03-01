@@ -4,12 +4,12 @@
         let per = 0;
         function progressLoad(){
             if(per>=80){
-                progress.style.width = `80%`;
+                progress.style.width = '80%';
                 percentage.innerHTML = "80%"
 
             }else{
-                progress.style.width = `${per}%`;
-                percentage.innerHTML = `${per}%`;
+                progress.style.width = '${per}%';
+                percentage.innerHTML = '${per}%';
 
             }
             per++
